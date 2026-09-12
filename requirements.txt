@@ -1,9 +1,6 @@
 dash
 dcc
 html
-Input
-Output
-State
 pandas
 plotly.express
 SentimentIntensityAnalyzer
