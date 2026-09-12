@@ -2,4 +2,5 @@ dash
 dcc
 pandas
 nltk
+wordcloud
 gunicorn
