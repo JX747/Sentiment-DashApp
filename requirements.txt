@@ -1,7 +1,6 @@
 dash
 dcc
 pandas
-plotly.express
 matplotlib.pyplot
 nltk
 gunicorn
