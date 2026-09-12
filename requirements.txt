@@ -1,13 +1,11 @@
 dash
 dcc
-html
 pandas
 plotly.express
 SentimentIntensityAnalyzer
 stopwords
 word_tokenize
 WordNetLemmatizer
-re
 WordCloud
 matplotlib.pyplot
 nltk
