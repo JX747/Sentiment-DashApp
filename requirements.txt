@@ -2,11 +2,6 @@ dash
 dcc
 pandas
 plotly.express
-SentimentIntensityAnalyzer
-stopwords
-word_tokenize
-WordNetLemmatizer
-WordCloud
 matplotlib.pyplot
 nltk
 gunicorn
