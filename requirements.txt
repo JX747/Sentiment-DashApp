@@ -1,6 +1,5 @@
 dash
 dcc
 pandas
-matplotlib.pyplot
 nltk
 gunicorn
