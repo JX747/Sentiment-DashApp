@@ -26,18 +26,18 @@ import matplotlib.pyplot as plt
 import nltk
 # Only download if not already downloaded to avoid unnecessary downloads
 #nltk.download('all')
-#try:
+try:
 nltk.data.find('sentiment/vader_lexicon.zip')
-#except LookupError:
-#    nltk.download('vader_lexicon')
-#try:
+except LookupError:
+    nltk.download('vader_lexicon')
+try:
 nltk.data.find('tokenizers/punkt')
-#except LookupError:
-#    nltk.download('punkt')
-#try:
+except LookupError:
+    nltk.download('punkt')
+try:
 nltk.data.find('corpora/stopwords')
-#except LookupError:
- #   nltk.download('stopwords')
+except LookupError:
+    nltk.download('stopwords')
 try:
     nltk.data.find('corpora/wordnet')
 except LookupError:
