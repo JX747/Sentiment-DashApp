@@ -1,5 +1,5 @@
--to be fiiled upAST API Machine Learning Web Application
-This application is a machine learning application that uses the Online Retail customer feedback.csv dataset with feedback as a feature to produce wordcloud .
+Dash App Machine Learning Web Application
+This application is a machine learning application that uses the Online Retail customer sales.csv dataset with feedback as a feature to produce wordcloud .
 
 
 ✓ To download the libraries used by the project, use
